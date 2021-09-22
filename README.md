@@ -2,7 +2,7 @@
 
 ## Project Oveview
 
-###Background
+### Background
 The school board has noted evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. 
 
 ### Purpose
@@ -39,7 +39,7 @@ As data for only Thomas High School was adjusted, the data for all other schools
 There is a slight decrease in all averaged scores and percentage calculations with the exception of reading scores. Reading scores marginally increased following the adjustment.
 
 
-###Thomas High School Performance
+### Thomas High School Performance
 The revised top 5 performing schools are pictured below.
  
 Thomas High School's performance in relation to other schools remained relatively the same following the adjustment. Where previously, Thomas High Schools percent passing reading was higher than Cabrera High School, following the adjustment it is lower in comparison.
@@ -53,7 +53,7 @@ Replacing the ninth-grade scores affect the following:
 * Scores by school type saw no change
  
 
-##Summary
+## Summary
 Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been removed.
 
 * Thomas High School 9th Grade Math and Reading scores replaced with NaN.
